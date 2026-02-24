@@ -8,5 +8,7 @@ public class CalculatorMain
 	System.out.println("Addition:" +c1.add(a,b));
 	System.out.println("Subtraction:"+c1.sub(a,b));
 	System.out.println("Multiplication:"+c1.mul(a,b));
+	System.out.println("Division:"+c1.div(a,b));
+
 }
 }
